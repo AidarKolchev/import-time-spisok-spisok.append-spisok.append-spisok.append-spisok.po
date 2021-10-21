@@ -1,0 +1,2 @@
+# import-time-spisok-spisok.append-spisok.append-spisok.append-spisok.po
+import time spisok = ['#####']  spisok.append('#') spisok.append('#') spisok.append('#')  #spisok.pop() # убирает k=0 while k&lt;10000000000:     spisok.append('#')     for i in spisok:         print(i,end='')     print('\n\n\n')     k=k+1     time.sleep(0) k=0 while k&lt;=1000000000:     spisok.append('#')     for i in spisok:         print(i,end='')     print('\n\n\n')     time.sleep(0)     spisok.pop('#')     k=+1
